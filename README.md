@@ -1,8 +1,14 @@
-# React + Vite
+# To Do List 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is a simple to do list application that allows users to add, delete, and mark tasks as complete.
 
-Currently, two official plugins are available:
+## How to Run on Local Machine
+1. Clone the repository
+2. Open the terminal and navigate to the project directory
+3. Run the command `npm install`
+4. Run the command `npm run dev`
+5. Open a web browser and navigate to `localhost:5173`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
+[To Do List](https://todo-app-quadb.vercel.app/)
